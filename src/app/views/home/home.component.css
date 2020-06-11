@@ -1,0 +1,17 @@
+.toolbar {
+  font-size: 1.7rem;
+  height: 80px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.button {
+  font-size: 1.2rem;
+}
+
+.icon {
+  vertical-align: middle;
+  padding-right: 3px;
+}
